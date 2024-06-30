@@ -20,6 +20,7 @@
 [<img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />][github]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />][vs]
 
+
 <!-- **esraaKamel1195/esraaKamel1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 
@@ -29,9 +30,11 @@
 [github]: https://github.com/nidabaci
 [vs]: https://visualstudio.microsoft.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]:https://developer.mozilla.org/en-US/docs/Web/CSS
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
-[git]:https://git-scm.com/
+[git]: https://git-scm.com/
+[nodejs]: https://www.svgrepo.com/show/452075/node-js.svg
+[angular]: https://www.svgrepo.com/show/452075/angular.svg
 
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
