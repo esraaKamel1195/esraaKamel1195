@@ -3,10 +3,12 @@
 - 🔭 I’m currently working as a Freelance Javascript Web Developer.
 - 🌱 I’m currently seeking to improve my skills in ( web development, javascript, typescript, nodejs, angular, mongoDb ).
 
+
 ### Connect with me: 
 
  [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
- [<img align="left" alt="myemail | Email" width="25" src="./icons8-gmail.svg" />][Email]
+ [<img align="left" alt="myemail | Email" width="25" src="./icons8-gmail.svg" />][Email].
+
 
 
 ### Languages and Tools:
