@@ -10,7 +10,7 @@
   [<img align="left" alt="myemail | Email" width="25" src="./icons8-gmail.svg" />][email] 
 
  
-### Languages and Tools:
+#### Languages and Tools:
 
 [<img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />][css]
