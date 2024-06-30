@@ -23,7 +23,7 @@
 [<img align="left" alt="Mongodb" width="30px" src="https://www.svgrepo.com/show/439231/mongodb.svg" />][mongodb]
 [<img align="left" alt="Scss" width="30px" src="https://www.svgrepo.com/show/373882/ng-component-scss.svg" />][scss]
 [<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/376367/express.svg" />][express]
-[<img align="left" alt="MySQL" width="30px" src="https://www/svgrepo.com/show/221323/mysql.svg" />][MySQL]
+[<img align="left" alt="MySQL" width="30px" src="https://www.svgrepo.com/show/221323/mysql.svg" />][MySQL]
 
 
 <!-- **esraaKamel1195/esraaKamel1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
