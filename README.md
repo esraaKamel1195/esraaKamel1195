@@ -34,7 +34,7 @@
 [js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
 [git]: https://git-scm.com/
 [nodejs]: https://www.svgrepo.com/show/452075/node-js.svg
-[angular]: https://www.svgrepo.com/show/452075/angular.svg
+[angular]: https://www.svgrepo.com/show/452156/angular.svg
 
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
