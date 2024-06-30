@@ -14,7 +14,7 @@
 [<img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />][css]
 [<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />][js]
-[<img align="left" alt="WordPress" width="30px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />][wp] 
+[<img align="left" alt="Bootstrap" width="30px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />][wp] 
 [<img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />][git]
 [<img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />][github]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />][vs]
