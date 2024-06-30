@@ -23,7 +23,7 @@
 [<img align="left" alt="Mongodb" width="30px" src="https://www.svgrepo.com/show/439231/mongodb.svg" />][mongodb]
 [<img align="left" alt="Scss" width="30px" src="https://www.svgrepo.com/show/373882/ng-component-scss.svg" />][scss]
 [<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/376367/express.svg" />][express]
-[<img align="left" alt="MySQL" width="30px" src="https://www.svgrepo.com/show//303251/mysql-logo.svg" />][MySQL]
+[<img align="left" alt="MySQL" width="30px" src="https://www.svgrepo.com/show/294240/mysql.svg" />][MySQL]
 
 
 <!-- **esraaKamel1195/esraaKamel1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -43,7 +43,7 @@
 [mongodb]: https://www.svgrepo.com/show/439231/mongodb.svg
 [scss]: https://www.svgrepo.com/show/373882/ng-component-scss.svg
 [express]: https://www.svgrepo.com/show/376367/express.svg
-[MySQL]: https://www.svgrepo.com/show/303251/mysql-logo.svg
+[MySQL]: https://www.svgrepo.com/show/294240/mysql.svg
 
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
