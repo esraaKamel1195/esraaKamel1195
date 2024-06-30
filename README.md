@@ -6,7 +6,7 @@
 ### Connect with me: 
 
  [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
- [Email]
+ [<img align="left" alt="myemail | Email" width="25" src="" />][Email]
 
 ### Languages and Tools:
 
