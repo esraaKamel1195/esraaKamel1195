@@ -43,7 +43,7 @@
 [mongodb]: https://www.svgrepo.com/show/439231/mongodb.svg
 [scss]: https://www.svgrepo.com/show/373882/ng-component-scss.svg
 [express]: https://www.svgrepo.com/show/376367/express.svg
-[MySQL]: https://www/svgrepo.com/show/221323/mysql.svg
+[MySQL]: https://www.svgrepo.com/show/221323/mysql.svg
 
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
