@@ -7,7 +7,7 @@
 ### Connect with me: 
 
  [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin].
- [<img align="left" alt="myemail | Email" width="25" src="./icons8-gmail.svg" />][Email].
+ [<img align="left" alt="myemail | Email" width="25" src="./icons8-gmail.svg" />][email].
 
 ### Languages and Tools:
 
@@ -23,7 +23,7 @@
 
 
 [linkedin]: https://www.linkedin.com/in/esraa-kamel-329961129/
-[Email]: esraa.kamel1811@gmail.com
+[email]: esraa.kamel1811@gmail.com
 [bs]:https://getbootstrap.com/
 [github]: https://github.com/nidabaci
 [vs]: https://visualstudio.microsoft.com/
