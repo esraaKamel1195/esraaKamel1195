@@ -17,7 +17,7 @@
 [<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />][js]
 [<img align="left" alt="Nodejs" width="30px" src="https://www.svgrepo.com/show/452075/node-js.svg" />][nodejs]
 [<img align="left" alt="Angular" width="30px" src="https://www.svgrepo.com/show/452156/angular.svg" />][angular]
-[<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/376367/express.svg" />][express]
+[<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/353724/express.svg" />][express]
 [<img align="left" alt="Mongodb" width="30px" src="https://www.svgrepo.com/show/439231/mongodb.svg" />][mongodb]
 [<img align="left" alt="NPM" width="30px" src="https://www.svgrepo.com/show/439240/npm.svg" />][npm]
 [<img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />][html]
