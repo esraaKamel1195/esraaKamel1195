@@ -40,7 +40,7 @@
 [vs]: https://visualstudio.microsoft.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS 
-[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript.svg
+[javascipt]: https://developer.mozilla.org/en-US/docs/Web/JavaScript.svg
 [git]: https://git-scm.com/
 [nodejs]: https://www.svgrepo.com/show/452075/node-js.svg
 [angular]: https://www.svgrepo.com/show/452156/angular.svg
