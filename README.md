@@ -19,7 +19,7 @@
 [<img align="left" alt="Angular" width="30px" src="https://www.svgrepo.com/show/452156/angular.svg" />][angular]
 [<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/376367/express.svg" />][express]
 [<img align="left" alt="Mongodb" width="30px" src="https://www.svgrepo.com/show/439231/mongodb.svg" />][mongodb]
-[<img align="left" alt="NPM" width="30px" src="https://www.svgrepo.com/show/452077/npm.svg" />][npm]
+[<img align="left" alt="NPM" width="30px" src="https://www.svgrepo.com/show/439240/npm.svg" />][npm]
 [<img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />][css]
 [<img align="left" alt="Bootstrap" width="30px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />][bs]
@@ -52,7 +52,7 @@
 [sql]: https://www.svgrepo.com/show/294240/sql.svg
 [rxjs]: https://www.svgrepo.com/show/294240/rxjs.svg
 [ngrx]: https://www.svgrepo.com/show/294240/ngrx.svg
-[npm]: https://www.svgrepo.com/show/452077/npm.svg
+[npm]: https://www.svgrepo.com/show/439240/npm.svg
 
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
