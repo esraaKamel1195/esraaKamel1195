@@ -14,17 +14,19 @@
 
 ### Languages and Tools:
 
+[<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />][js]
+[<img align="left" alt="Nodejs" width="30px" src="https://www.svgrepo.com/show/452075/node-js.svg" />][nodejs]
+[<img align="left" alt="Angular" width="30px" src="https://www.svgrepo.com/show/452156/angular.svg" />][angular]
+[<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/376367/express.svg" />][express]
+[<img align="left" alt="Mongodb" width="30px" src="https://www.svgrepo.com/show/439231/mongodb.svg" />][mongodb]
+[<img align="left" alt="NPM" width="30px" src="https://www.svgrepo.com/show/452077/npm.svg" />][npm]
 [<img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />][css]
-[<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />][js]
-[<img align="left" alt="Bootstrap" width="30px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />][bs] 
+[<img align="left" alt="Bootstrap" width="30px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />][bs]
 [<img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />][git]
 [<img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />][github]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />][vs]
-[<img align="left" alt="Angular" width="30px" src="https://www.svgrepo.com/show/452156/angular.svg" />][angular]
-[<img align="left" alt="Mongodb" width="30px" src="https://www.svgrepo.com/show/439231/mongodb.svg" />][mongodb]
 [<img align="left" alt="Scss" width="30px" src="https://www.svgrepo.com/show/373882/ng-component-scss.svg" />][scss]
-[<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/376367/express.svg" />][express]
 [<img align="left" alt="MySQL" width="30px" src="https://www.svgrepo.com/show/294240/mysql.svg" />][MySQL]
 
 
@@ -50,6 +52,7 @@
 [sql]: https://www.svgrepo.com/show/294240/sql.svg
 [rxjs]: https://www.svgrepo.com/show/294240/rxjs.svg
 [ngrx]: https://www.svgrepo.com/show/294240/ngrx.svg
+[npm]: https://www.svgrepo.com/show/452077/npm.svg
 
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
