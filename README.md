@@ -30,7 +30,6 @@
 
 <!-- **esraaKamel1195/esraaKamel1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
 [linkedin]: https://www.linkedin.com/in/esraa-kamel-329961129/
 [email]: esraa.kamel1811@gmail.com
 [bs]:https://getbootstrap.com/
@@ -46,6 +45,11 @@
 [scss]: https://www.svgrepo.com/show/373882/ng-component-scss.svg
 [express]: https://www.svgrepo.com/show/376367/express.svg
 [MySQL]: https://www.svgrepo.com/show/294240/mysql.svg
+[typescipt]: https://www.svgrepo.com/show/294240/typescipt.svg
+[ecmascript]: https://www.svgrepo.com/show/294240/ecmascript.svg
+[sql]: https://www.svgrepo.com/show/294240/sql.svg
+[rxjs]: https://www.svgrepo.com/show/294240/rxjs.svg
+[ngrx]: https://www.svgrepo.com/show/294240/ngrx.svg
 
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
