@@ -14,7 +14,8 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />][js]
+[<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />][javascipt]
+[<img align="left" alt="Typescript" width="30px" src="https://www.svgrepo.com/show/439022/typescript.svg" />][typescipt] 
 [<img align="left" alt="Nodejs" width="30px" src="https://www.svgrepo.com/show/452075/node-js.svg" />][nodejs]
 [<img align="left" alt="Angular" width="30px" src="https://www.svgrepo.com/show/452156/angular.svg" />][angular]
 [<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/376367/express.svg" />][express]
@@ -38,8 +39,8 @@
 [github]: https://github.com/esraaKamel1195
 [vs]: https://visualstudio.microsoft.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
-[css]: https://developer.mozilla.org/en-US/docs/Web/CSS
-[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+[css]: https://developer.mozilla.org/en-US/docs/Web/CSS 
+[js]: https://developer.mozilla.org/en-US/docs/Web/JavaScript.svg
 [git]: https://git-scm.com/
 [nodejs]: https://www.svgrepo.com/show/452075/node-js.svg
 [angular]: https://www.svgrepo.com/show/452156/angular.svg
@@ -47,7 +48,7 @@
 [scss]: https://www.svgrepo.com/show/373882/ng-component-scss.svg
 [express]: https://www.svgrepo.com/show/376367/express.svg
 [MySQL]: https://www.svgrepo.com/show/294240/mysql.svg
-[typescipt]: https://www.svgrepo.com/show/294240/typescipt.svg
+[typescipt]: https://www.svgrepo.com/show/439022/typescript.svg
 [ecmascript]: https://www.svgrepo.com/show/294240/ecmascript.svg
 [sql]: https://www.svgrepo.com/show/294240/sql.svg
 [rxjs]: https://www.svgrepo.com/show/294240/rxjs.svg
