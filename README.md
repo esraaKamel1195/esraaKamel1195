@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 - 🔭 I’m currently working as a Freelance Javascript Web Developer.
-- 🌱 I’m currently seeking to improve my skills in ( web development, javascript, typescript, nodejs, angular, mongoDb ).
+- 🌱 I’m currently seeking to improve my skills in ( Web development, Javascript, Typescript, Nodejs, Angular, MongoDb ).
 
 
 ### Connect with me:
