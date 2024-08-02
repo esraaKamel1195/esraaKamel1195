@@ -19,11 +19,11 @@
 [<img align="left" alt="Nodejs" width="30px" src="https://www.svgrepo.com/show/452075/node-js.svg" />][nodejs]
 [<img align="left" alt="Angular" width="30px" src="https://www.svgrepo.com/show/452156/angular.svg" />][angular]
 [<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/376367/express.svg" />][express]
-[<img align="left" alt="Mongodb" width="30px" src="https://www.svgrepo.com/show/439231/mongodb.svg" />][mongodb]
+[<img align="left" alt="Mongodb" width="30px" src="https://www.svgrepo.com/show/354090/mongodb.svg" />][mongodb]
 [<img align="left" alt="NPM" width="30px" src="https://www.svgrepo.com/show/439240/npm.svg" />][npm]
 [<img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />][css]
-[<img align="left" alt="Bootstrap" width="30px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />][bs]
+[<img align="left" alt="Bootstrap" width="30px" src="https://www.svgrepo.com/show/353498/bootstrap.svg" />][bootstrap]
 [<img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />][git]
 [<img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />][github]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />][vs]
@@ -35,22 +35,23 @@
 
 [linkedin]: https://www.linkedin.com/in/esraa-kamel-329961129/
 [email]: esraa.kamel1811@gmail.com
-[bs]:https://getbootstrap.com/
+[bootstrap]: https://getbootstrap.com/
 [github]: https://github.com/esraaKamel1195
 [vs]: https://visualstudio.microsoft.com/
 [html]: https://developer.mozilla.org/en-US/docs/Web/HTML
 [css]: https://developer.mozilla.org/en-US/docs/Web/CSS 
 [javascipt]: https://developer.mozilla.org/en-US/docs/Web/JavaScript.svg
 [git]: https://git-scm.com/
-[nodejs]: https://www.svgrepo.com/show/452075/node-js.svg
-[angular]: https://www.svgrepo.com/show/452156/angular.svg
-[mongodb]: https://www.svgrepo.com/show/439231/mongodb.svg
-[scss]: https://www.svgrepo.com/show/373882/ng-component-scss.svg
-[express]: https://www.svgrepo.com/show/376367/express.svg
-[MySQL]: https://www.svgrepo.com/show/294240/mysql.svg
+[nodejs]: https://nodejs.org/en
+[angular]: https://angular.dev/
+[mongodb]: https://www.mongodb.com/
+[npm]: https://www.npmjs.com/
+[express]: https://expressjs.com/
+[MySQL]: https://www.mysql.com/
+[sql]: https://www.mysql.com/
+
 [typescipt]: https://www.svgrepo.com/show/439022/typescript.svg
-[npm]: https://www.svgrepo.com/show/439240/npm.svg
-[sql]: https://www.svgrepo.com/show/294240/sql.svg
+[scss]: https://www.svgrepo.com/show/373882/ng-component-scss.svg
 [ecmascript]: https://www.svgrepo.com/show/294240/ecmascript.svg
 [rxjs]: https://www.svgrepo.com/show/294240/rxjs.svg
 [ngrx]: https://www.svgrepo.com/show/294240/ngrx.svg
