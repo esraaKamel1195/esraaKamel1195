@@ -14,7 +14,7 @@
 
 ### Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/29753/javascript.svg" />][javascipt]
+[<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg" />][javascipt]
 [<img align="left" alt="Typescript" width="30px" src="https://www.svgrepo.com/show/439022/typescript.svg" />][typescipt] 
 [<img align="left" alt="Nodejs" width="30px" src="https://www.svgrepo.com/show/452075/node-js.svg" />][nodejs]
 [<img align="left" alt="Angular" width="30px" src="https://www.svgrepo.com/show/452156/angular.svg" />][angular]
@@ -49,11 +49,11 @@
 [express]: https://www.svgrepo.com/show/376367/express.svg
 [MySQL]: https://www.svgrepo.com/show/294240/mysql.svg
 [typescipt]: https://www.svgrepo.com/show/439022/typescript.svg
-[ecmascript]: https://www.svgrepo.com/show/294240/ecmascript.svg
+[npm]: https://www.svgrepo.com/show/439240/npm.svg
 [sql]: https://www.svgrepo.com/show/294240/sql.svg
+[ecmascript]: https://www.svgrepo.com/show/294240/ecmascript.svg
 [rxjs]: https://www.svgrepo.com/show/294240/rxjs.svg
 [ngrx]: https://www.svgrepo.com/show/294240/ngrx.svg
-[npm]: https://www.svgrepo.com/show/439240/npm.svg
 
 <!-- Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
