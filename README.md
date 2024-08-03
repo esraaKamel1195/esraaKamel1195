@@ -34,6 +34,52 @@
 [<img align="left" alt="Scss" width="30px" src="https://www.svgrepo.com/show/373882/ng-component-scss.svg" />][scss]
 [<img align="left" alt="MySQL" width="30px" src="https://www.svgrepo.com/show/294240/mysql.svg" />][MySQL]
 
+<table align="center">
+  <thead>
+    <tr>
+      <th colspan="3" width="512">Last Followers</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center">502</td>
+      <td align="center">
+        <a href="https://github.com/fullstack-dev3" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/40275927?u=7283906582b653a43e5112b4fa128a31b1d8bc93&v=4" alt="fullstack-dev3" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/fullstack-dev3" target="_blank">fullstack-dev3</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">503</td>
+      <td align="center">
+        <a href="https://github.com/esraaKamel1195" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/54186712?u=662e6e0beb6f2671db6ba2393fa66c05ab29b778&v=4" alt="esraaKamel1195" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/esraaKamel1195" target="_blank">esraaKamel1195</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">504</td>
+      <td align="center">
+        <a href="https://github.com/Gleycykelly" target="_blank">
+          <img src="https://avatars.githubusercontent.com/u/50642872?u=f2e7f3507954b3bce278834edd1908c591f40835&v=4" alt="Gleycykelly" width="40" height="40"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/Gleycykelly" target="_blank">Gleycykelly</a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">505</td>
+      <td align="center" colspan="2">Maybe You ? (can take a few minutes to update)</td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- **esraaKamel1195/esraaKamel1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
