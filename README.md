@@ -8,8 +8,7 @@
 - 🌱 I’m currently seeking to improve my skills in ( Web development, Javascript, Typescript, Nodejs, Angular, MongoDb ).
 
 <h2 align="center">Connect with me</h2>
-<!-- ### Connect with me:
- -->
+
   [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
   [<img align="left" alt="myemail | Email" width="25" src="./icons8-gmail.svg" />][email]
 
