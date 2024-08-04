@@ -9,8 +9,8 @@
 
 <h2 align="center">Connect with me</h2>
 
-  [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
-  [<img align="left" alt="myemail | Email" width="25" src="./icons8-gmail.svg" />][email]
+  [<img align="center" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
+  [<img align="center" alt="myemail | Email" width="25" src="./icons8-gmail.svg" />][email]
 
   <br>
 
