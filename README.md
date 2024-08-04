@@ -7,16 +7,17 @@
 - 🔭 I’m currently working as a Freelance Javascript Web Developer.
 - 🌱 I’m currently seeking to improve my skills in ( Web development, Javascript, Typescript, Nodejs, Angular, MongoDb ).
 
-
-### Connect with me:
-
+<h1 align="center">Connect with me</h1>
+<!-- ### Connect with me:
+ -->
   [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
   [<img align="left" alt="myemail | Email" width="25" src="./icons8-gmail.svg" />][email]
 
   <br>
 
+<h1 align="center">Technical skills</h1>
 
-### Languages and Tools:
+<h3 align="center">Languages and Tools:</h3>
 
 [<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg" />][javascipt]
 [<img align="left" alt="Typescript" width="30px" src="https://www.svgrepo.com/show/439022/typescript.svg" />][typescipt] 
