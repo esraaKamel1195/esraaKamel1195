@@ -1,4 +1,4 @@
-## Hi there 👋
+<h1>:wave: - Hi there</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=esraaKamel1195">
@@ -7,7 +7,7 @@
 - 🔭 I’m currently working as a Freelance Javascript Web Developer.
 - 🌱 I’m currently seeking to improve my skills in ( Web development, Javascript, Typescript, Nodejs, Angular, MongoDb ).
 
-<h1 align="center">Connect with me</h1>
+<h2 align="center">Connect with me</h2>
 <!-- ### Connect with me:
  -->
   [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
@@ -15,7 +15,7 @@
 
   <br>
 
-<h1 align="center">Technical skills</h1>
+<h2 align="center">Technical skills</h2>
 
 <h3 align="center">Languages and Tools:</h3>
 
