@@ -18,8 +18,7 @@
 
 <h3 align="center">Languages and Tools:</h3>
 
-<br>
-<h3 align="center">Frontend Development Tools</h3>
+<h3 align="left">Frontend Development Tools</h3>
 
 [<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg" />][javascipt]
 [<img align="left" alt="Typescript" width="30px" src="https://www.svgrepo.com/show/439022/typescript.svg" />][typescipt] 
@@ -33,8 +32,9 @@
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />][vs]
 [<img align="left" alt="Scss" width="30px" src="https://www.svgrepo.com/show/373882/ng-component-scss.svg" />][scss]
 
-<br>
-<h3 align="center">Backend Development Tools</h3>
+
+<h3 align="left">Backend Development Tools</h3>
+
 [<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg" />][javascipt]
 [<img align="left" alt="Typescript" width="30px" src="https://www.svgrepo.com/show/439022/typescript.svg" />][typescipt] 
 [<img align="left" alt="Nodejs" width="30px" src="https://www.svgrepo.com/show/452075/node-js.svg" />][nodejs]
