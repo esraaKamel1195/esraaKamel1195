@@ -14,16 +14,16 @@
 
   <br>
 
-<h2 align="center">Technical skills</h2>
+<h2 align="center">Technical Skills</h2>
 
 <h3 align="center">Languages and Tools:</h3>
 
+<br>
+<h3 align="center">Frontend Development Tools</h3>
+
 [<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg" />][javascipt]
 [<img align="left" alt="Typescript" width="30px" src="https://www.svgrepo.com/show/439022/typescript.svg" />][typescipt] 
-[<img align="left" alt="Nodejs" width="30px" src="https://www.svgrepo.com/show/452075/node-js.svg" />][nodejs]
 [<img align="left" alt="Angular" width="30px" src="https://www.svgrepo.com/show/452156/angular.svg" />][angular]
-[<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/376367/express.svg" />][express]
-[<img align="left" alt="Mongodb" width="30px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />][mongodb]
 [<img align="left" alt="NPM" width="30px" src="https://www.svgrepo.com/show/439240/npm.svg" />][npm]
 [<img align="left" alt="HTML5" width="30px" src="https://www.svgrepo.com/show/120930/html.svg" />][html]
 [<img align="left" alt="CSS3" width="30px" src="https://www.svgrepo.com/show/134149/css.svg" />][css]
@@ -32,7 +32,17 @@
 [<img align="left" alt="GitHub" width="35px" src="https://www.svgrepo.com/show/312259/github.svg" />][github]
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />][vs]
 [<img align="left" alt="Scss" width="30px" src="https://www.svgrepo.com/show/373882/ng-component-scss.svg" />][scss]
+
+<br>
+<h3 align="center">Backend Development Tools</h3>
+[<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg" />][javascipt]
+[<img align="left" alt="Typescript" width="30px" src="https://www.svgrepo.com/show/439022/typescript.svg" />][typescipt] 
+[<img align="left" alt="Nodejs" width="30px" src="https://www.svgrepo.com/show/452075/node-js.svg" />][nodejs]
 [<img align="left" alt="MySQL" width="30px" src="https://www.svgrepo.com/show/294240/mysql.svg" />][MySQL]
+[<img align="left" alt="Mongodb" width="30px" src="https://www.svgrepo.com/show/331488/mongodb.svg" />][mongodb]
+[<img align="left" alt="NPM" width="30px" src="https://www.svgrepo.com/show/439240/npm.svg" />][npm]
+[<img align="left" alt="Git" width="30px" src="https://www.svgrepo.com/show/373623/git.svg" />][git]
+[<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/376367/express.svg" />][express]
 
 <!-- **esraaKamel1195/esraaKamel1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
