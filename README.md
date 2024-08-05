@@ -32,7 +32,7 @@
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />][vs]
 [<img align="left" alt="Scss" width="30px" src="https://www.svgrepo.com/show/373882/ng-component-scss.svg" />][scss]
 
-
+<br>
 <h3 align="left">Backend Development Tools</h3>
 
 [<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg" />][javascipt]
