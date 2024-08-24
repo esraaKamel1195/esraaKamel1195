@@ -4,7 +4,7 @@
   <img width="450" height="450" src="./welcome.jpg"/>
 </p> -->
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=#3ebfee&size=35&center=true&vCenter=true&width=500&duration=1500&pause=1000&lines=I'm+Esraa+Kamel;Frontend+Javascript+Developer" width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233ebfee&size=35&center=true&vCenter=true&width=500&duration=1500&pause=1000&lines=I'm+Esraa+Kamel;Frontend+Javascript+Developer" width="auto" height="35"/>
 </p>
 <p align="center">
   <img alt="Developer GIF" width="450" height="auto" src="assets/developer-mode.gif"/>
