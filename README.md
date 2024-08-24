@@ -1,13 +1,13 @@
 <h1>Hello there - :wave:</h1>
-
+<!-- 
 <p align="center">
   <img width="450" height="450" src="./welcome.jpg"/>
+</p> -->
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=500&duration=1500&pause=1000&lines=I'm+Esraa+Kamel;Frontend+Javascript+Developer" width="auto" height="35"/>
 </p>
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=500&duration=1500&pause=1000&lines=Esraa+Kamel;Frontend+Javascript+Developer" width="auto" height="35"/>
-</p>
-<p align="center">
-  <img alt="Developer GIF" width="450" height="450" src="./developer-mode.gif"/>
+  <img alt="Developer GIF" width="450" height="auto" src="./developer-mode.gif"/>
 </p>
 
 <p align="center">
