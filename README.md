@@ -1,13 +1,13 @@
 <h1>Hello there - :wave:</h1>
 
 <p align="center">
-  <img src="assets/header.png"/>
+  <img src="./header.png"/>
 </p>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%237E3ACE&size=35&center=true&vCenter=true&width=450&duration=1500&pause=1000&lines=Esraa+Kamel;Frontend+Javascript+Developer" width="auto" height="35"/>
 </p>
 <p align="center">
-  <img alt="Developer GIF" width="auto" height="auto" src="assets/developer-mode.gif"/>
+  <img alt="Developer GIF" width="auto" height="auto" src="./developer-mode.gif"/>
 </p>
 
 <p align="center">
@@ -20,7 +20,7 @@
 <h2 align="center">Connect with me</h2>
 
   [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
-  [<img align="left" alt="myemail | Email" width="25" src="assets/icons8-gmail.svg" />][email]
+  [<img align="left" alt="myemail | Email" width="25" src="./icons8-gmail.svg" />][email]
 
   <br>
 
