@@ -63,8 +63,8 @@
 <h2 align="center">Connect with me</h2>
 
   <div align="center">
-    [<img align="center" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
-    [<img align="center" alt="myemail | Email" width="25" src="assets/icons8-gmail.svg" />][email]
+    <p>[<img align="center" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]</p>
+    <p>[<img align="center" alt="myemail | Email" width="25" src="assets/icons8-gmail.svg" />][email]</p>
   </div>
 
 [linkedin]: https://www.linkedin.com/in/esraa-kamel-329961129/
