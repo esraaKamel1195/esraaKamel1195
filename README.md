@@ -17,11 +17,6 @@
 - 🔭 I’m currently working as a Freelance Javascript Web Developer.
 - 🌱 I’m currently seeking to improve my skills in ( Web development, Javascript, Typescript, Nodejs, Angular, MongoDb ).
 
-<h2 align="center">Connect with me</h2>
-
-  [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
-  [<img align="left" alt="myemail | Email" width="25" src="assets/icons8-gmail.svg" />][email]
-
   <br>
 
 <h2 align="center">Technical Skills</h2>
@@ -55,6 +50,11 @@
 [<img align="left" alt="Express" width="30px" src="https://www.svgrepo.com/show/376367/express.svg" />][express]
 
 <!-- **esraaKamel1195/esraaKamel1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<h2 align="center">Connect with me</h2>
+
+  [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
+  [<img align="left" alt="myemail | Email" width="25" src="assets/icons8-gmail.svg" />][email]
 
 [linkedin]: https://www.linkedin.com/in/esraa-kamel-329961129/
 [email]: esraa.kamel1811@gmail.com
