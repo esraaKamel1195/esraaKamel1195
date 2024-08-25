@@ -22,7 +22,12 @@
 - 🌱 I’m currently seeking to improve my skills in ( Web development, Javascript, Typescript, Nodejs, Angular, MongoDb ).
 
   <br>
+<h2 align="center">Most Used Technology</h2>
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233ebfee&size=35&center=true&vCenter=true&width=500&duration=1500&pause=1000&lines=Angular+Framework;Typescript;Javascript;Nodejs" width="auto" height="35"/>
+</p>
 
+<br>
 <h2 align="center">Technical Skills</h2>
 
 <h3 align="center">Languages and Tools:</h3>
