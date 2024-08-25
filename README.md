@@ -2,10 +2,7 @@
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=esraaKamel1195">
 </p>
-<!-- 
-<p align="center">
-  <img width="450" height="450" src="./welcome.jpg"/>
-</p> -->
+
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233ebfee&size=35&center=true&vCenter=true&width=500&duration=1500&pause=1000&lines=I'm+Esraa+Kamel;Frontend+Javascript+Developer" width="auto" height="35"/>
 </p>
@@ -18,9 +15,12 @@
   <img src="https://komarev.com/ghpvc/?username=esraaKamel1195">
 </p> -->
 
-- 🔭 I’m currently working as a Freelance Javascript Web Developer.
-- 🌱 I’m currently seeking to improve my skills in ( Web development, Javascript, Typescript, Nodejs, Angular, MongoDb ).
-
+- 🔭 
+<p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233ebfee&size=40&center=true&vCenter=true&width=1000&duration=1500&pause=1000&lines=I’m+currently+working+as+a +Frontend+Angular+Web+Developer." width="auto" height="35"/>
+</p>
+<!-- <!-- - 🌱 I’m currently seeking to improve my skills in ( Web development, Javascript, Typescript, Nodejs, Angular, MongoDb ). -->
+ -->
 <br>
 <h2 align="center">Most Used Technology</h2>
 <p align="center">
