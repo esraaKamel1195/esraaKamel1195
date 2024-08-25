@@ -21,13 +21,12 @@
 - 🔭 I’m currently working as a Freelance Javascript Web Developer.
 - 🌱 I’m currently seeking to improve my skills in ( Web development, Javascript, Typescript, Nodejs, Angular, MongoDb ).
 
-  <br>
+<br>
 <h2 align="center">Most Used Technology</h2>
 <p align="center">
    <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233ebfee&size=35&center=true&vCenter=true&width=500&duration=1500&pause=1000&lines=Angular+Framework;Typescript;Javascript;Nodejs" width="auto" height="35"/>
 </p>
 
-<br>
 <h2 align="center">Technical Skills</h2>
 
 <h3 align="center">Languages and Tools:</h3>
@@ -46,7 +45,7 @@
 [<img align="left" alt="Visual Studio Code" width="30px" src="https://www.svgrepo.com/show/331782/visual-studio.svg" />][vs]
 [<img align="left" alt="Scss" width="30px" src="https://www.svgrepo.com/show/373882/ng-component-scss.svg" />][scss]
 
-  <br>
+<br>
 <h3 align="left">Backend Development Tools</h3>
 
 [<img align="left" alt="JavaScript" width="30px" src="https://www.svgrepo.com/show/349419/javascript.svg" />][javascipt]
@@ -63,8 +62,8 @@
 <br>
 <h2 align="center">Connect with me</h2>
 
-  [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
-  [<img align="left" alt="myemail | Email" width="25" src="assets/icons8-gmail.svg" />][email]
+  [<img align="center" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
+  [<img align="center" alt="myemail | Email" width="25" src="assets/icons8-gmail.svg" />][email]
 
 [linkedin]: https://www.linkedin.com/in/esraa-kamel-329961129/
 [email]: esraa.kamel1811@gmail.com
