@@ -1,4 +1,7 @@
-<h1>Hello there - :wave:</h1>
+<h1 align="center">Hello there - :wave:</h1>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=esraaKamel1195">
+</p>
 <!-- 
 <p align="center">
   <img width="450" height="450" src="./welcome.jpg"/>
@@ -10,9 +13,10 @@
   <img alt="Developer GIF" width="350" height="auto" src="assets/developer-mode.gif"/>
 </p>
 
+<!--
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=esraaKamel1195">
-</p>
+</p> -->
 
 - 🔭 I’m currently working as a Freelance Javascript Web Developer.
 - 🌱 I’m currently seeking to improve my skills in ( Web development, Javascript, Typescript, Nodejs, Angular, MongoDb ).
