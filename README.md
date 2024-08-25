@@ -51,6 +51,7 @@
 
 <!-- **esraaKamel1195/esraaKamel1195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
+<br>
 <h2 align="center">Connect with me</h2>
 
   [<img align="left" alt="mylinkedin | LinkedIn" width="25" src="https://www.svgrepo.com/show/299484/linkedin.svg" />][linkedin]
