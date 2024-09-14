@@ -1,4 +1,4 @@
-<h1 align="center">Hello there - :wave:</h1>
+<h1 align="center">Hello there :wave:</h1>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=esraaKamel1195">
 </p>
