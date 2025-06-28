@@ -1,6 +1,9 @@
 <h1 align="center">Hello there :wave:</h1>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=esraaKamel1195">
+  <p align="center">
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233ebfee&size=35&center=true&vCenter=true&width=500&duration=1500&pause=1000&lines=Esraa+Kamel" width="auto" height="35"/>
+</p>
 </p>
 
 <p align="center">
