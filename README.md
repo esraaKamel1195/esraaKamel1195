@@ -4,10 +4,7 @@
 </p>
 
 <p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233ebfee&size=35&center=true&vCenter=true&width=1000&duration=1500&pause=1000&lines=Esraa+Kamel;Currently+working+as+a+Frontend+Angular+Developer." width="auto" height="35"/>
-</p>
-<p align="center">
-   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233ebfee&size=35&center=true&vCenter=true&width=1000&duration=1500&pause=1000&lines=Im+Esraa+Kamel;Im+currently+working+as+a+Frontend+Angular+Developer." width="auto" height="35"/>
+   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Slab&color=%233ebfee&size=35&center=true&vCenter=true&width=1000&duration=1500&pause=1000&lines=I+amm+Esraa+Kamel;I+am+currently+working+as+a+Frontend+Angular+Developer." width="auto" height="35"/>
 </p>
 <p align="center">
   <img alt="Developer GIF" width="350" height="auto" src="assets/developer-mode.gif"/>
